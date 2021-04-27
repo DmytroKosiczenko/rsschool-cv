@@ -18,14 +18,18 @@ In 2019/2020 i was working as a Junior java developer in the small group of deve
 We were developing the online CRM solution. The main thing of this CRM system was that clients of our customer should pay for service 
 on a regular basis, such as we pay for the internet or TV.  In this project I used Java, Spring Boot, Spring Data, Spring MVC, ThymeLeaf, 
 FlyWay, Bootstrap, Mockito and some other technologies.  
+
 ## Skills
-### Programming languages and frameworks 
-## 1C, Java, Spring, SQL, Flutter.
-### VCS: GitHub, GitLab.
+
+## Programming languages and frameworks 
+1C, Java, Spring, SQL, Flutter.
+
+## VCS
+GitHub, GitLab.
 
 ## Education
 Odessa National Polytechnic University Engineer s degree in Computer Science
-### Online courses
+## Online courses
 Java Summer 2020 EPAM in Aug 2020
 Java web services development Stepik in Aug 2019
 Java programming essentials by Prometheus  in Apr 2017 
