@@ -6,6 +6,4 @@ Tel. +380987269922 (Viber/WhatsApp)
 
 ## Goals
 
-My goal is to get a position of Junior Mobile Developer in an international company. 
-
-It’s very important for me to have the possibility of evolution and progress.
+My goal is to get a position of Junior Mobile Developer in an international company. It s very important for me to have the possibility of evolution and progress.
