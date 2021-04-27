@@ -1,3 +1,3 @@
 *Dima Kosichenko*
 -------------------------------------
-## **iso2001@gmail.com
+## iso2001@gmail.com
